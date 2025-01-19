@@ -1,0 +1,9 @@
+17-Jan-2025
+------------------------------------------------------------------------------------------------------------------------
+REPL - Read Evaluate Print Loop
+
+Once Node is installed type the command node and it activates the node prompt on which basic operations can be evaluated 
+& tested.
+
+.help
+

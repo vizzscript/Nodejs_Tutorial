@@ -1,0 +1,5 @@
+1) Create a database mydatabase
+2) create table customers
+3) Insert some values of 10 customers
+4) Retrieve this info and display it on the webpage
+5) Take input from the user on html page,where the user types the address(Pune) and display the list of customers on the webpage
