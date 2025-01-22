@@ -7,3 +7,26 @@ Once Node is installed type the command node and it activates the node prompt on
 
 .help
 
+------------------------------------------------------------------------------------------------------------------------
+
+20-Jan-2025
+------------------------------------------------------------------------------------------------------------------------
+
+Node.js support a framework called as Express to define or create a Node.js application in a faster manner i.e. with 
+minimum efforts a Node.js application.
+
+It has to be installed using npm as it is not part of the standard installation, it allows us to route a Node.js application
+using the routing techniques, allows us to define the middleware logic exclusively allows url-parsing, database connectivity
+dynamic web-page creation with standard templates module pug.
+
+In earlier programs we use http, created server and made it listen to the clients request, but using express this things 
+can be handled by express whereas we can deal with the actual logic.
+
+To create a node.js project we use the command "npm init" or specify the command "npm init -y" this setting creates the 
+project with all the default options whereas in the first option we need to give the arguments for the settings once the 
+project is created package.json contains the list of dependencies as we install modules the dependencies inside this files
+are populated, to install express globally we use the command "npm install -g express" whereas to install it locally on the 
+folder we use "npm install express".
+
+To run a node project we use the option "node index.js" but if the contents of this file is changed we need to restart the 
+server for changes to get reflected automatically we use the option "nodemon index.js" to execute the server program.
